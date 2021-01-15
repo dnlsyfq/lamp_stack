@@ -1,1 +1,8 @@
-# lamp_stack
+# Linux
+Bitnami
+
+# Mac
+Mamp
+
+# Windows
+Wamp
